@@ -1,4 +1,3 @@
-Temporarily empty [[TO BE FILLED]]
 # TechieMate
 
 ## Introduction
